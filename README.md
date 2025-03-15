@@ -49,6 +49,3 @@ Some of the repos are private such as **Fitness Tracking & Health Monitoring Sys
 
 Feel free to ask me anything related to Full Stack Development or just say hi!
 
----
-
-*Generated with ❤️ using GitHub README Template.*
