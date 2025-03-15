@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm a Computer Engineer with experience as a Full 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, C++
+- **Languages:** Python, Swift, JavaScript, TypeScript, C++
 - **Frameworks:** React, Node.js, Django
-- **Tools:** Docker, Kubernetes, Git, Jenkins
+- **Tools:** Docker, Kubernetes, Git, Jenkins, Xcode
 - **Databases:** PostgreSQL, MongoDB
 
 ## 🔗 Connect with Me
