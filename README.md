@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Computer Engineer with experience as a Full 
 ## 🚀 About Me
 
 - 🌍 Based in Odisha
-- 🔭 Currently working on Final year project
+- 🔭 Completed Final year project (Fitness Tracking & Health Monitoring System)
 - 🌱 Learning new technologies and skills
 - 👯 Looking to collaborate on innovative projects
 - 🤔 Fun fact: Very unstable 
