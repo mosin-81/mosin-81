@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a Computer Engineer with experience as a Full 
 ## 📚 Projects
 
 For the projects I've worked on, kindly visit my portfolio or my repositories for detailed information and source code.
-
+Some of the repos are private such as **Fitness Tracking & Health Monitoring System** 
 ## 💬 Ask Me Anything
 
 Feel free to ask me anything related to Full Stack Development or just say hi!
