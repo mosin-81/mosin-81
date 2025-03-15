@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Computer Engineer with experience as a Full 
 - 👯 Looking to collaborate on innovative projects
 - 🤔 Fun fact: Very unstable 
 
-## 🔥 GitHub Stats
+@## 🔥 GitHub Stats
 
 ![Mosin Ahemad Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosin-81&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&hide=prs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ff6f61)
 
